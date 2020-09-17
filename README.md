@@ -86,5 +86,11 @@ Task 1:
 2)components/Store.js/CounterReducer.js
 3)Then go to index.js add provider and store
 
+<h2>2nd Commit</h2>
 Task 2:
 1)All the things remove from app.js,counterInput,counterOnput and store.js is controlling everything props function removed and dispatch is controlling every thing from counterinput.js
+
+<h2>3rd Commit</h2>
+1)Action.payload 
+counterInput.js and counterReducer
+2)Action.js we have created Action.js because if we do mistake in spelling of increment and decrement it won't make trouble at all.
