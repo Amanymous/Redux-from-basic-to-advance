@@ -77,9 +77,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 5)Dispatch: Afunction that carries an action from react component to reducer
 
-<h1>Introduction To Redux</h1>
+<h1>Introduction To Redux </h1>
+
+<h2>1st Commit</h2>
 
 Task 1:
 1)components/App.js/CounterInput.js/CounterOutput.js
 2)components/Store.js/CounterReducer.js
 3)Then go to index.js add provider and store
+
+Task 2:
+1)All the things remove from app.js,counterInput,counterOnput and store.js is controlling everything props function removed and dispatch is controlling every thing from counterinput.js

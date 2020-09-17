@@ -1,5 +1,7 @@
 const initialState = {
   counter: 0,
+  name: 'aman',
+  age: 21,
 };
 
 export default function CounterReducer(state = initialState, action) {
